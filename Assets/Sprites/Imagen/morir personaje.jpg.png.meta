@@ -1,0 +1,1014 @@
+fileFormatVersion: 2
+guid: 0290e6e4969f3b747a4d28c07f9419cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5695984985380577226
+    second: morir personaje.jpg_0
+  - first:
+      213: 5489252899388405812
+    second: morir personaje.jpg_1
+  - first:
+      213: 8903042296564899169
+    second: morir personaje.jpg_2
+  - first:
+      213: 3047739233007646037
+    second: morir personaje.jpg_3
+  - first:
+      213: -549543848157865087
+    second: morir personaje.jpg_4
+  - first:
+      213: -6035468237512856042
+    second: morir personaje.jpg_5
+  - first:
+      213: -7230119613651813704
+    second: morir personaje.jpg_6
+  - first:
+      213: 2837571770115170364
+    second: morir personaje.jpg_7
+  - first:
+      213: 8462305001171406303
+    second: morir personaje.jpg_8
+  - first:
+      213: 4129769419359564772
+    second: morir personaje.jpg_9
+  - first:
+      213: 7180960589889419224
+    second: morir personaje.jpg_10
+  - first:
+      213: -2112652853697609872
+    second: morir personaje.jpg_11
+  - first:
+      213: -9189003157313306771
+    second: morir personaje.jpg_12
+  - first:
+      213: -4427593900875052794
+    second: morir personaje.jpg_13
+  - first:
+      213: -8548570764500925058
+    second: morir personaje.jpg_14
+  - first:
+      213: -3140333865653037285
+    second: morir personaje.jpg_15
+  - first:
+      213: 7139521902631937201
+    second: morir personaje.jpg_16
+  - first:
+      213: -5179198778740875285
+    second: morir personaje.jpg_17
+  - first:
+      213: 1757411204546957138
+    second: morir personaje.jpg_18
+  - first:
+      213: -4826322396730836332
+    second: morir personaje.jpg_19
+  - first:
+      213: 2133748220121057150
+    second: morir personaje.jpg_20
+  - first:
+      213: 6309847265653866913
+    second: morir personaje.jpg_21
+  - first:
+      213: -4643513303014424306
+    second: morir personaje.jpg_22
+  - first:
+      213: 4844936982384645320
+    second: morir personaje.jpg_23
+  - first:
+      213: 4455874356833372409
+    second: morir personaje.jpg_24
+  - first:
+      213: 2716133297801893225
+    second: morir personaje.jpg_25
+  - first:
+      213: 1530463534492363668
+    second: morir personaje.jpg_26
+  - first:
+      213: -5162399238432041807
+    second: morir personaje.jpg_27
+  - first:
+      213: -5562474962366928184
+    second: morir personaje.jpg_28
+  - first:
+      213: 2529230186880716327
+    second: morir personaje.jpg_29
+  - first:
+      213: 8779589692566670090
+    second: morir personaje.jpg_30
+  - first:
+      213: 6008663625379412932
+    second: morir personaje.jpg_31
+  - first:
+      213: 8609272644231231583
+    second: morir personaje.jpg_32
+  - first:
+      213: -6498452879726574037
+    second: morir personaje.jpg_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: morir personaje.jpg_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 527
+        width: 200
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf51936a243c0f40800000000000000
+      internalID: 5695984985380577226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morir personaje.jpg_1
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 825
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438345ebd6ebd2c40800000000000000
+      internalID: 5489252899388405812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morir personaje.jpg_2
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 526
+        width: 228
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d57036cc5fd8b70800000000000000
+      internalID: 8903042296564899169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morir personaje.jpg_3
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 811
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555317f4faebb4a20800000000000000
+      internalID: 3047739233007646037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morir personaje.jpg_4
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 799
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b9c0e18c0af58f0800000000000000
+      internalID: -549543848157865087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morir personaje.jpg_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 524
+        width: 215
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ea4e18d95bd3ca0800000000000000
+      internalID: -6035468237512856042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morir personaje.jpg_6
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 814
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8baf2b8a48479ab90800000000000000
+      internalID: -7230119613651813704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morir personaje.jpg_7
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 786
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c302466ad74116720800000000000000
+      internalID: 2837571770115170364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morir personaje.jpg_8
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 524
+        width: 250
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd45d73095207570800000000000000
+      internalID: 8462305001171406303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morir personaje.jpg_9
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 755
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3b23d0863ef4930800000000000000
+      internalID: 4129769419359564772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morir personaje.jpg_10
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 730
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d730723c95e7a360800000000000000
+      internalID: 7180960589889419224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morir personaje.jpg_11
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 522
+        width: 251
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f73a14c695ea2e0800000000000000
+      internalID: -2112652853697609872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morir personaje.jpg_12
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 688
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fb568505a1a7080800000000000000
+      internalID: -9189003157313306771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morir personaje.jpg_13
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 521
+        width: 295
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60908a83ec60e82c0800000000000000
+      internalID: -4427593900875052794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morir personaje.jpg_14
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 665
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7502a49e206d5980800000000000000
+      internalID: -8548570764500925058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morir personaje.jpg_15
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 331
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b171f95ccfa4b64d0800000000000000
+      internalID: -3140333865653037285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morir personaje.jpg_16
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 266
+        width: 20
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b46f78f75da41360800000000000000
+      internalID: 7139521902631937201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morir personaje.jpg_17
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 308
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef530cb62acf18b0800000000000000
+      internalID: -5179198778740875285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morir personaje.jpg_18
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 307
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f005bed24936810800000000000000
+      internalID: 1757411204546957138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morir personaje.jpg_19
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 296
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ab853e955750db0800000000000000
+      internalID: -4826322396730836332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morir personaje.jpg_20
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 286
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77007c73b89c9d10800000000000000
+      internalID: 2133748220121057150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morir personaje.jpg_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 176
+        width: 243
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1c44838a4119750800000000000000
+      internalID: 6309847265653866913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morir personaje.jpg_22
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 282
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e014608d04dee8fb0800000000000000
+      internalID: -4643513303014424306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morir personaje.jpg_23
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 278
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c49032148cac3340800000000000000
+      internalID: 4844936982384645320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morir personaje.jpg_24
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 278
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f843da8e1276dd30800000000000000
+      internalID: 4455874356833372409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morir personaje.jpg_25
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 269
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965971af7d4a1b520800000000000000
+      internalID: 2716133297801893225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morir personaje.jpg_26
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 263
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b2b13d97c4d3510800000000000000
+      internalID: 1530463534492363668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morir personaje.jpg_27
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 176
+        width: 250
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4d2848e397b58b0800000000000000
+      internalID: -5162399238432041807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morir personaje.jpg_28
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 270
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca6d143e7e1ec2b0800000000000000
+      internalID: -5562474962366928184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morir personaje.jpg_29
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 175
+        width: 511
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e483c5471a91320800000000000000
+      internalID: 2529230186880716327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morir personaje.jpg_30
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 271
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b0e132f4e57d970800000000000000
+      internalID: 8779589692566670090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morir personaje.jpg_31
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 266
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbfc856bbf036350800000000000000
+      internalID: 6008663625379412932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morir personaje.jpg_32
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 175
+        width: 263
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58f3e52bd74a7770800000000000000
+      internalID: 8609272644231231583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morir personaje.jpg_33
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 174
+        width: 271
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b268842498bd0d5a0800000000000000
+      internalID: -6498452879726574037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      morir personaje.jpg_0: 5695984985380577226
+      morir personaje.jpg_1: 5489252899388405812
+      morir personaje.jpg_10: 7180960589889419224
+      morir personaje.jpg_11: -2112652853697609872
+      morir personaje.jpg_12: -9189003157313306771
+      morir personaje.jpg_13: -4427593900875052794
+      morir personaje.jpg_14: -8548570764500925058
+      morir personaje.jpg_15: -3140333865653037285
+      morir personaje.jpg_16: 7139521902631937201
+      morir personaje.jpg_17: -5179198778740875285
+      morir personaje.jpg_18: 1757411204546957138
+      morir personaje.jpg_19: -4826322396730836332
+      morir personaje.jpg_2: 8903042296564899169
+      morir personaje.jpg_20: 2133748220121057150
+      morir personaje.jpg_21: 6309847265653866913
+      morir personaje.jpg_22: -4643513303014424306
+      morir personaje.jpg_23: 4844936982384645320
+      morir personaje.jpg_24: 4455874356833372409
+      morir personaje.jpg_25: 2716133297801893225
+      morir personaje.jpg_26: 1530463534492363668
+      morir personaje.jpg_27: -5162399238432041807
+      morir personaje.jpg_28: -5562474962366928184
+      morir personaje.jpg_29: 2529230186880716327
+      morir personaje.jpg_3: 3047739233007646037
+      morir personaje.jpg_30: 8779589692566670090
+      morir personaje.jpg_31: 6008663625379412932
+      morir personaje.jpg_32: 8609272644231231583
+      morir personaje.jpg_33: -6498452879726574037
+      morir personaje.jpg_4: -549543848157865087
+      morir personaje.jpg_5: -6035468237512856042
+      morir personaje.jpg_6: -7230119613651813704
+      morir personaje.jpg_7: 2837571770115170364
+      morir personaje.jpg_8: 8462305001171406303
+      morir personaje.jpg_9: 4129769419359564772
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

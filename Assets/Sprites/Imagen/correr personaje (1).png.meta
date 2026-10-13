@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 147a4b04a47d0c747b7012ee588d6893
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3640976206932463770
+    second: correr personaje (1)_0
+  - first:
+      213: -6307372487071763633
+    second: correr personaje (1)_1
+  - first:
+      213: -3225216975152985942
+    second: correr personaje (1)_2
+  - first:
+      213: 6988044546602642576
+    second: correr personaje (1)_3
+  - first:
+      213: 3639090970336301022
+    second: correr personaje (1)_4
+  - first:
+      213: 2329364073347822399
+    second: correr personaje (1)_5
+  - first:
+      213: 4146313509664543814
+    second: correr personaje (1)_6
+  - first:
+      213: -7574691418036792858
+    second: correr personaje (1)_7
+  - first:
+      213: 2423617180674177266
+    second: correr personaje (1)_8
+  - first:
+      213: -913434015266977921
+    second: correr personaje (1)_9
+  - first:
+      213: -338713570986915386
+    second: correr personaje (1)_10
+  - first:
+      213: -4127281023602371183
+    second: correr personaje (1)_11
+  - first:
+      213: -1423377447366727967
+    second: correr personaje (1)_12
+  - first:
+      213: -2662506834732226161
+    second: correr personaje (1)_13
+  - first:
+      213: -1238285807567785147
+    second: correr personaje (1)_14
+  - first:
+      213: -228569273910525782
+    second: correr personaje (1)_15
+  - first:
+      213: 7675823127150265685
+    second: correr personaje (1)_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: correr personaje (1)_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 566
+        width: 248
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f24263e67a87dc0800000000000000
+      internalID: -3640976206932463770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr personaje (1)_1
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 566
+        width: 264
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43f3021426b778a0800000000000000
+      internalID: -6307372487071763633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr personaje (1)_2
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 566
+        width: 265
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa84270cf3abd33d0800000000000000
+      internalID: -3225216975152985942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr personaje (1)_3
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 566
+        width: 261
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c2bdaad758af060800000000000000
+      internalID: 6988044546602642576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr personaje (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 566
+        width: 262
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf0a30f4f5a08230800000000000000
+      internalID: 3639090970336301022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr personaje (1)_5
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 127
+        width: 250
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3334708840935020800000000000000
+      internalID: 2329364073347822399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr personaje (1)_6
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 127
+        width: 258
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64455fe3b2aaa8930800000000000000
+      internalID: 4146313509664543814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr personaje (1)_7
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 127
+        width: 243
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e197b8a94a41e690800000000000000
+      internalID: -7574691418036792858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr personaje (1)_8
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 127
+        width: 262
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f83e952cfa62a120800000000000000
+      internalID: 2423617180674177266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr personaje (1)_9
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 447
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77c04a4a94d253f0800000000000000
+      internalID: -913434015266977921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr personaje (1)_10
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 127
+        width: 254
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c988b04dc5ac4bf0800000000000000
+      internalID: -338713570986915386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr personaje (1)_11
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 439
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19558fbb6c3f8b6c0800000000000000
+      internalID: -4127281023602371183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr personaje (1)_12
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 441
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e66764c0c52f3ce0800000000000000
+      internalID: -1423377447366727967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr personaje (1)_13
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 406
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f896cbfe320ec0bd0800000000000000
+      internalID: -2662506834732226161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr personaje (1)_14
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 328
+        width: 7
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543b3856e99b0dee0800000000000000
+      internalID: -1238285807567785147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr personaje (1)_15
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 139
+        width: 7
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa08ef5d475f3dcf0800000000000000
+      internalID: -228569273910525782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr personaje (1)_16
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 127
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55505844770068a60800000000000000
+      internalID: 7675823127150265685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      correr personaje (1)_0: -3640976206932463770
+      correr personaje (1)_1: -6307372487071763633
+      correr personaje (1)_10: -338713570986915386
+      correr personaje (1)_11: -4127281023602371183
+      correr personaje (1)_12: -1423377447366727967
+      correr personaje (1)_13: -2662506834732226161
+      correr personaje (1)_14: -1238285807567785147
+      correr personaje (1)_15: -228569273910525782
+      correr personaje (1)_16: 7675823127150265685
+      correr personaje (1)_2: -3225216975152985942
+      correr personaje (1)_3: 6988044546602642576
+      correr personaje (1)_4: 3639090970336301022
+      correr personaje (1)_5: 2329364073347822399
+      correr personaje (1)_6: 4146313509664543814
+      correr personaje (1)_7: -7574691418036792858
+      correr personaje (1)_8: 2423617180674177266
+      correr personaje (1)_9: -913434015266977921
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
